@@ -11,3 +11,12 @@ a. terraform init
 b. terraform validate
 c. terraform plan
 d. terraform apply
+
+
+gcpex2 :
+
+Example for 
+
+- State file backup into storage bucket
+- Create VPC Network
+- Create Virtual Machine 
