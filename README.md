@@ -15,7 +15,7 @@ d. terraform apply
 
 gcpex2 :
 
-Example for 
+Example for backup of state file
 
 - State file backup into storage bucket
 - Create VPC Network
