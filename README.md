@@ -19,4 +19,6 @@ Example for backup of state file
 
 - State file backup into storage bucket
 - Create VPC Network
-- Create Virtual Machine 
+- Create Virtual Machine
+
+Modules example is updated in the folder
